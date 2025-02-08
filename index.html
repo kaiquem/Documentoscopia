@@ -1,0 +1,252 @@
+<!DOCTYPE html>
+<html lang="en" data-bs-theme="">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link
+    href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap"
+    rel="stylesheet" />
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+  <!-- <link href="./node_modules/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet" /> -->
+  <link rel="stylesheet" href="style.css" />
+</head>
+
+<body class="d-flex justify-content-center">
+  <main class="d-flex flex-column align-items-center">
+    <!-- Campos para a busca -->
+    <section class="d-flex flex-column align-items-center" id="form">
+      <form action="submit" class="d-flex gap-2 align-items-end m-2">
+        <div>
+          <span for="tipo" class="titles-form">Tipo de DI</span>
+          <select id="tipo-selec" class="form-select w-100">
+            <option disabled selected>Selecione o tipo de documento</option>
+            <option value="RG">RG</option>
+            <option value="RNE">RNE</option>
+            <option value="CNH">CNH</option>
+            <option value="PASSAPORTE">PASSAPORTE</option>
+            <option value="OAB">OAB</option>
+          </select>
+        </div>
+        <div>
+          <span for="estado" class="titles-form">Estado</span>
+          <select id="estado-selec" class="form-select">
+            <option disabled selected>Selecione o estado</option>
+            <option value="AC">Acre</option>
+            <option value="AL">Alagoas</option>
+            <option value="AP">Amapá</option>
+            <option value="AM">Amazonas</option>
+            <option value="BA">Bahia</option>
+            <option value="CE">Ceará</option>
+            <option value="DF">Distrito Federal</option>
+            <option value="ES">Espírito Santo</option>
+            <option value="GO">Goiás</option>
+            <option value="MA">Maranhão</option>
+            <option value="MT">Mato Grosso</option>
+            <option value="MS">Mato Grosso do Sul</option>
+            <option value="MG">Minas Gerais</option>
+            <option value="PA">Pará</option>
+            <option value="PB">Paraíba</option>
+            <option value="PR">Paraná</option>
+            <option value="PE">Pernambuco</option>
+            <option value="PI">Piauí</option>
+            <option value="RJ">Rio de Janeiro</option>
+            <option value="RN">Rio Grande do Norte</option>
+            <option value="RS">Rio Grande do Sul</option>
+            <option value="RO">Rondônia</option>
+            <option value="RR">Roraima</option>
+            <option value="SC">Santa Catarina</option>
+            <option value="SP">São Paulo</option>
+            <option value="SE">Sergipe</option>
+            <option value="TO">Tocantins</option>
+          </select>
+        </div>
+        <div>
+          <span for="geracao" class="titles-form">Geração</span>
+          <select id="geracao-selec" class="form-select">
+            <option disabled selected>Seleciona a geração</option>
+            <option value="1">1° Geração</option>
+            <option value="2">2° Geração</option>
+            <option value="3">3° Geração</option>
+            <option value="4">4° Geração</option>
+          </select>
+        </div>
+        <button class="search-button btn btn-primary">Buscar</button>
+      </form>
+      <span id="tipo-di" class="info-result">-</span>
+    </section>
+    <!-- Area de visualização da imagem e controles -->
+    <section id="image-viewer" class="d-flex flex-column mt- align-items-center">
+      <div class="viewer d-flex flex-column align-items-center mt-2 mb-1">
+        <span id="status">Para começar selecione um tipo de documento</span>
+        <img class="image" src="" alt="" />
+        <div id="modalImagem" class="modal">
+          <img id="imagemExpandida">
+        </div>
+        <span id="count">-</span>
+      </div>
+      <div class="controls d-flex justify-content-center gap-1  align-items-center">
+        <button id="anterior" class="desativado button-control btn btn-primary">Anterior</button>
+        <button id="proximo" class="desativado button-control btn btn-primary">Próxima</button>
+      </div>
+    </section>
+    <!-- Area de informações -->
+    <section class="w-100 mt-2">
+      <div class="title d-flex justify-content-center mt-4 mb-4">INFORMAÇÕES</div>
+      <div id="rg" class="result-area m-1">
+        <div class="result-block d-flex mb-2">
+          <div class="titles-result">
+            Estado
+            <br />
+            <span id="nome" class="info-result">-</span>
+          </div>
+          <div class="titles-result">
+            Geração
+            <br />
+            <span id="geracao" class="info-result">-</span>
+          </div>
+        </div>
+        <div class="result-block d-flex mb-2">
+          <div class="titles-result">
+            Formato RG
+            <br />
+            <span id="formato-rg" class="info-result">-</span>
+          </div>
+          <div class="titles-result">
+            Formato CPF
+            <br />
+            <span id="formato-cpf" class="info-result">-</span>
+          </div>
+        </div>
+        <div class="result-block d-flex mb-2">
+          <div class="titles-result flex-grow-1">
+            Perfuração
+            <br />
+            <span id="perfuracao" class="info-result">-</span>
+          </div>
+          <div class="titles-result flex-grow-1">
+            N° Atual
+            <br />
+            <span id="numero-atual" class="info-result">-</span>
+          </div>
+        </div>
+        <div class="result-block d-flex mb-2">
+          <div class="titles-result">
+            Polegar direito
+            <br />
+            <span id="polegar-direito" class="info-result">-</span>
+          </div>
+          <div class="titles-result">
+            Formato via
+            <br />
+            <span id="formato-via" class="info-result">-</span>
+          </div>
+        </div>
+        <div class="result-block d-flex mb-2">
+          <div class="titles-result">
+            Formato de datas
+            <br />
+            <span id="formato-data" class="info-result">-</span>
+          </div>
+          <div class="titles-result">
+            Inicio de emissão
+            <br />
+            <span id="inicio-emissao" class="info-result">-</span>
+          </div>
+        </div>
+        <div class="result-block d-flex mb-2">
+          <div class="titles-result">
+            Chancela
+            <br />
+            <span id="chancela" class="info-result">-</span>
+          </div>
+          <div class="titles-result">
+            Nomenclatura
+            <br />
+            <span id="nomenclatura" class="info-result">-</span>
+          </div>
+        </div>
+        <div class="result-block d-flex mb-2">
+          <div class="titles-result">
+            Diretores
+            <br />
+            <div id="diretores" class="info-result">-</div>
+          </div>
+          <div class="titles-result">
+            Observações
+            <br />
+            <div id="observacoes" class="info-result">-</div>
+          </div>
+        </div>
+      </div>
+      <div id="cnh" class="hide result-area m-1">
+        <div class="result-block d-flex mb-2">
+          <div class="titles-result">
+            Estado
+            <br />
+            <span id="nome" class="info-result">-</span>
+          </div>
+          <div class="titles-result">
+            Geração
+            <br />
+            <span id="geracao" class="info-result">-</span>
+          </div>
+        </div>
+        <div class="result-block d-flex mb-2">
+          <div class="titles-result">
+            titulo
+            <br />
+            <span id="titulo" class="info-result">-</span>
+          </div>
+          <div class="titles-result">
+            Formato CPF
+            <br />
+            <span id="formato-cpf" class="info-result">-</span>
+          </div>
+        </div>
+        <div class="result-block d-flex mb-2">
+          <div class="titles-result flex-grow-1">
+            Perfuração
+            <br />
+            <span id="perfuracao" class="info-result">-</span>
+          </div>
+          <div class="titles-result flex-grow-1">
+            N° Atual
+            <br />
+            <span id="numero-atual" class="info-result">-</span>
+          </div>
+        </div>
+        <div class="result-block d-flex mb-2">
+          <div class="titles-result">
+            Polegar direito
+            <br />
+            <span id="polegar-direito" class="info-result">-</span>
+          </div>
+          <div class="titles-result">
+            Formato via
+            <br />
+            <span id="formato-via" class="info-result">-</span>
+          </div>
+        </div>
+        <div class="result-block d-flex mb-2">
+          <div class="titles-result">
+            Formato de datas
+            <br />
+            <span id="formato-data" class="info-result">-</span>
+          </div>
+          <div class="titles-result">
+            Observações
+            <br />
+            <span id="observacoes" class="info-result">-</span>
+          </div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <script src="./node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+  <script type="module" src="./src/scripts/script.js"></script>
+</body>
+
+</html>

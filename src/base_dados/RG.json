@@ -1,0 +1,2209 @@
+{
+  "1": {
+    "AC": {
+      "nome": "Acre",
+      "geracao": "1° Geração",
+      "imagens": {
+        "img_1": "1",
+        "img_2": "2"
+      },
+      "formato-rg": [],
+      "formato-cpf": [],
+      "perfuracao": [],
+      "numero-atual": [],
+      "polegar-direito": [],
+      "formato-via": [],
+      "formato-data": [""],
+      "inicio-emissao": [],
+      "chancela": [],
+      "nomenclatura": [],
+      "diretores": [],
+      "observacoes": []
+    },
+    "AL": {
+      "nome": "Alagoas",
+      "geracao": "1° Geração",
+      "imagens": {
+        "img_1": "",
+        "img_2": ""
+      },
+      "formato-rg": [],
+      "formato-cpf": [],
+      "perfuracao": [],
+      "numero-atual": [],
+      "polegar-direito": [],
+      "formato-via": [],
+      "formato-data": [""],
+      "inicio-emissao": [],
+      "chancela": [],
+      "nomenclatura": [],
+      "diretores": [],
+      "observacoes": []
+    },
+    "AP": {
+      "nome": "Amapá",
+      "geracao": "1° Geração",
+      "imagens": {
+        "img_1": "",
+        "img_2": ""
+      },
+      "formato-rg": [],
+      "formato-cpf": [],
+      "perfuracao": [],
+      "numero-atual": [],
+      "polegar-direito": [],
+      "formato-via": [],
+      "formato-data": [""],
+      "inicio-emissao": [],
+      "chancela": [],
+      "nomenclatura": [],
+      "diretores": [],
+      "observacoes": []
+    },
+    "AM": {
+      "nome": "Amazonas",
+      "geracao": "1° Geração",
+      "imagens": {
+        "img_1": "",
+        "img_2": ""
+      },
+      "formato-rg": [],
+      "formato-cpf": [],
+      "perfuracao": [],
+      "numero-atual": [],
+      "polegar-direito": [],
+      "formato-via": [],
+      "formato-data": [""],
+      "inicio-emissao": [],
+      "chancela": [],
+      "nomenclatura": [],
+      "diretores": [],
+      "observacoes": []
+    },
+    "BA": {
+      "nome": "Bahia",
+      "geracao": "1° Geração",
+      "imagens": {
+        "img_1": "",
+        "img_2": ""
+      },
+      "formato-rg": [],
+      "formato-cpf": [],
+      "perfuracao": [],
+      "numero-atual": [],
+      "polegar-direito": [],
+      "formato-via": [],
+      "formato-data": [""],
+      "inicio-emissao": [],
+      "chancela": [],
+      "nomenclatura": [],
+      "diretores": [],
+      "observacoes": []
+    },
+    "CE": {
+      "nome": "Ceará",
+      "geracao": "1° Geração",
+      "imagens": {
+        "img_1": "",
+        "img_2": ""
+      },
+      "formato-rg": [],
+      "formato-cpf": [],
+      "perfuracao": [],
+      "numero-atual": [],
+      "polegar-direito": [],
+      "formato-via": [],
+      "formato-data": [""],
+      "inicio-emissao": [],
+      "chancela": [],
+      "nomenclatura": [],
+      "diretores": [],
+      "observacoes": []
+    },
+    "DF": {
+      "nome": "Distrito Federal",
+      "geracao": "1° Geração",
+      "imagens": {
+        "img_1": "",
+        "img_2": ""
+      },
+      "formato-rg": [],
+      "formato-cpf": [],
+      "perfuracao": [],
+      "numero-atual": [],
+      "polegar-direito": [],
+      "formato-via": [],
+      "formato-data": [""],
+      "inicio-emissao": [],
+      "chancela": [],
+      "nomenclatura": [],
+      "diretores": [],
+      "observacoes": []
+    },
+    "ES": {
+      "nome": "Espirito Santo",
+      "geracao": "1° Geração",
+      "imagens": {
+        "img_1": "",
+        "img_2": ""
+      },
+      "formato-rg": [],
+      "formato-cpf": [],
+      "perfuracao": [],
+      "numero-atual": [],
+      "polegar-direito": [],
+      "formato-via": [],
+      "formato-data": [""],
+      "inicio-emissao": [],
+      "chancela": [],
+      "nomenclatura": [],
+      "diretores": [],
+      "observacoes": []
+    },
+    "GO": {
+      "nome": "Goiás",
+      "geracao": "1° Geração",
+      "imagens": {
+        "img_1": "",
+        "img_2": ""
+      },
+      "formato-rg": [],
+      "formato-cpf": [],
+      "perfuracao": [],
+      "numero-atual": [],
+      "polegar-direito": [],
+      "formato-via": [],
+      "formato-data": [""],
+      "inicio-emissao": [],
+      "chancela": [],
+      "nomenclatura": [],
+      "diretores": [],
+      "observacoes": []
+    },
+    "MA": {
+      "nome": "Maranhão",
+      "geracao": "1° Geração",
+      "imagens": {
+        "img_1": "",
+        "img_2": ""
+      },
+      "formato-rg": [],
+      "formato-cpf": [],
+      "perfuracao": [],
+      "numero-atual": [],
+      "polegar-direito": [],
+      "formato-via": [],
+      "formato-data": [""],
+      "inicio-emissao": [],
+      "chancela": [],
+      "nomenclatura": [],
+      "diretores": [],
+      "observacoes": []
+    },
+    "MT": {
+      "nome": "Mato Grosso",
+      "geracao": "1° Geração",
+      "imagens": {
+        "img_1": "",
+        "img_2": ""
+      },
+      "formato-rg": [],
+      "formato-cpf": [],
+      "perfuracao": [],
+      "numero-atual": [],
+      "polegar-direito": [],
+      "formato-via": [],
+      "formato-data": [""],
+      "inicio-emissao": [],
+      "chancela": [],
+      "nomenclatura": [],
+      "diretores": [],
+      "observacoes": []
+    },
+    "MS": {
+      "nome": "Mato Grosso do Sul",
+      "geracao": "1° Geração",
+      "imagens": {
+        "img_1": "",
+        "img_2": ""
+      },
+      "formato-rg": [],
+      "formato-cpf": [],
+      "perfuracao": [],
+      "numero-atual": [],
+      "polegar-direito": [],
+      "formato-via": [],
+      "formato-data": [""],
+      "inicio-emissao": [],
+      "chancela": [],
+      "nomenclatura": [],
+      "diretores": [],
+      "observacoes": []
+    },
+    "MG": {
+      "nome": "Minas Gerais",
+      "geracao": "1° Geração",
+      "imagens": {
+        "img_1": "",
+        "img_2": ""
+      },
+      "formato-rg": [],
+      "formato-cpf": [],
+      "perfuracao": [],
+      "numero-atual": [],
+      "polegar-direito": [],
+      "formato-via": [],
+      "formato-data": [""],
+      "inicio-emissao": [],
+      "chancela": [],
+      "nomenclatura": [],
+      "diretores": [],
+      "observacoes": []
+    },
+    "PA": {
+      "nome": "Pará",
+      "geracao": "1° Geração",
+      "imagens": {
+        "img_1": "",
+        "img_2": ""
+      },
+      "formato-rg": [],
+      "formato-cpf": [],
+      "perfuracao": [],
+      "numero-atual": [],
+      "polegar-direito": [],
+      "formato-via": [],
+      "formato-data": [""],
+      "inicio-emissao": [],
+      "chancela": [],
+      "nomenclatura": [],
+      "diretores": [],
+      "observacoes": []
+    },
+    "PB": {
+      "nome": "Paraíba",
+      "geracao": "1° Geração",
+      "imagens": {
+        "img_1": "",
+        "img_2": ""
+      },
+      "formato-rg": [],
+      "formato-cpf": [],
+      "perfuracao": [],
+      "numero-atual": [],
+      "polegar-direito": [],
+      "formato-via": [],
+      "formato-data": [""],
+      "inicio-emissao": [],
+      "chancela": [],
+      "nomenclatura": [],
+      "diretores": [],
+      "observacoes": []
+    },
+    "PR": {
+      "nome": "Paraná",
+      "geracao": "1° Geração",
+      "imagens": {
+        "img_1": "",
+        "img_2": ""
+      },
+      "formato-rg": [],
+      "formato-cpf": [],
+      "perfuracao": [],
+      "numero-atual": [],
+      "polegar-direito": [],
+      "formato-via": [],
+      "formato-data": [""],
+      "inicio-emissao": [],
+      "chancela": [],
+      "nomenclatura": [],
+      "diretores": [],
+      "observacoes": []
+    },
+    "PE": {
+      "nome": "Pernambuco",
+      "geracao": "1° Geração",
+      "imagens": {
+        "img_1": "",
+        "img_2": ""
+      },
+      "formato-rg": [],
+      "formato-cpf": [],
+      "perfuracao": [],
+      "numero-atual": [],
+      "polegar-direito": [],
+      "formato-via": [],
+      "formato-data": [""],
+      "inicio-emissao": [],
+      "chancela": [],
+      "nomenclatura": [],
+      "diretores": [],
+      "observacoes": []
+    },
+    "PI": {
+      "nome": "Piauí",
+      "geracao": "1° Geração",
+      "imagens": {
+        "img_1": "",
+        "img_2": ""
+      },
+      "formato-rg": [],
+      "formato-cpf": [],
+      "perfuracao": [],
+      "numero-atual": [],
+      "polegar-direito": [],
+      "formato-via": [],
+      "formato-data": [""],
+      "inicio-emissao": [],
+      "chancela": [],
+      "nomenclatura": [],
+      "diretores": [],
+      "observacoes": []
+    },
+    "RJ": {
+      "nome": "Rio de Janeiro",
+      "geracao": "1° Geração",
+      "imagens": {
+        "img_1": "",
+        "img_2": ""
+      },
+      "formato-rg": [],
+      "formato-cpf": [],
+      "perfuracao": [],
+      "numero-atual": [],
+      "polegar-direito": [],
+      "formato-via": [],
+      "formato-data": [""],
+      "inicio-emissao": [],
+      "chancela": [],
+      "nomenclatura": [],
+      "diretores": [],
+      "observacoes": []
+    },
+    "RN": {
+      "nome": "Rio Grande do Norte",
+      "geracao": "1° Geração",
+      "imagens": {
+        "img_1": "",
+        "img_2": ""
+      },
+      "formato-rg": [],
+      "formato-cpf": [],
+      "perfuracao": [],
+      "numero-atual": [],
+      "polegar-direito": [],
+      "formato-via": [],
+      "formato-data": [""],
+      "inicio-emissao": [],
+      "chancela": [],
+      "nomenclatura": [],
+      "diretores": [],
+      "observacoes": []
+    },
+    "RS": {
+      "nome": "Rio Grande do Sul",
+      "geracao": "1° Geração",
+      "imagens": {
+        "img_1": "",
+        "img_2": ""
+      },
+      "formato-rg": [],
+      "formato-cpf": [],
+      "perfuracao": [],
+      "numero-atual": [],
+      "polegar-direito": [],
+      "formato-via": [],
+      "formato-data": [""],
+      "inicio-emissao": [],
+      "chancela": [],
+      "nomenclatura": [],
+      "diretores": [],
+      "observacoes": []
+    },
+    "RO": {
+      "nome": "Rondônia",
+      "geracao": "1° Geração",
+      "imagens": {
+        "img_1": "",
+        "img_2": ""
+      },
+      "formato-rg": [],
+      "formato-cpf": [],
+      "perfuracao": [],
+      "numero-atual": [],
+      "polegar-direito": [],
+      "formato-via": [],
+      "formato-data": [""],
+      "inicio-emissao": [],
+      "chancela": [],
+      "nomenclatura": [],
+      "diretores": [],
+      "observacoes": []
+    },
+    "RR": {
+      "nome": "Roraima",
+      "geracao": "1° Geração",
+      "imagens": {
+        "img_1": "",
+        "img_2": ""
+      },
+      "formato-rg": [],
+      "formato-cpf": [],
+      "perfuracao": [],
+      "numero-atual": [],
+      "polegar-direito": [],
+      "formato-via": [],
+      "formato-data": [""],
+      "inicio-emissao": [],
+      "chancela": [],
+      "nomenclatura": [],
+      "diretores": [],
+      "observacoes": []
+    },
+    "SC": {
+      "nome": "Santa Catarina",
+      "geracao": "1° Geração",
+      "imagens": {
+        "img_1": "",
+        "img_2": ""
+      },
+      "formato-rg": [],
+      "formato-cpf": [],
+      "perfuracao": [],
+      "numero-atual": [],
+      "polegar-direito": [],
+      "formato-via": [],
+      "formato-data": [""],
+      "inicio-emissao": [],
+      "chancela": [],
+      "nomenclatura": [],
+      "diretores": [],
+      "observacoes": []
+    },
+    "SP": {
+      "nome": "São Paulo",
+      "geracao": "1° Geração",
+      "imagens": {
+        "img_1": "",
+        "img_2": ""
+      },
+      "formato-rg": [],
+      "formato-cpf": [],
+      "perfuracao": [],
+      "numero-atual": [],
+      "polegar-direito": [],
+      "formato-via": [],
+      "formato-data": [""],
+      "inicio-emissao": [],
+      "chancela": [],
+      "nomenclatura": [],
+      "diretores": [],
+      "observacoes": []
+    },
+    "SE": {
+      "nome": "Sergipe",
+      "geracao": "1° Geração",
+      "imagens": {
+        "img_1": "",
+        "img_2": ""
+      },
+      "formato-rg": [],
+      "formato-cpf": [],
+      "perfuracao": [],
+      "numero-atual": [],
+      "polegar-direito": [],
+      "formato-via": [],
+      "formato-data": [""],
+      "inicio-emissao": [],
+      "chancela": [],
+      "nomenclatura": [],
+      "diretores": [],
+      "observacoes": []
+    },
+    "TO": {
+      "nome": "Tocantins",
+      "geracao": "1° Geração",
+      "imagens": {
+        "img_1": "",
+        "img_2": ""
+      },
+      "formato-rg": [],
+      "formato-cpf": [],
+      "perfuracao": [],
+      "numero-atual": [],
+      "polegar-direito": [],
+      "formato-via": [],
+      "formato-data": [""],
+      "inicio-emissao": [],
+      "chancela": [],
+      "nomenclatura": [],
+      "diretores": [],
+      "observacoes": []
+    }
+  },
+  "2": {
+    "AC": {
+      "nome": "Acre",
+      "geracao": "2° Geração",
+      "imagens": {
+        "img_1": "",
+        "img_2": ""
+      },
+      "formato-rg": [],
+      "formato-cpf": [],
+      "perfuracao": [],
+      "numero-atual": [],
+      "polegar-direito": [],
+      "formato-via": [],
+      "formato-data": [""],
+      "inicio-emissao": [],
+      "chancela": [],
+      "nomenclatura": [],
+      "diretores": [],
+      "observacoes": []
+    },
+    "AL": {
+      "nome": "Alagoas",
+      "geracao": "2° Geração",
+      "imagens": {
+        "img_1": "",
+        "img_2": ""
+      },
+      "formato-rg": [],
+      "formato-cpf": [],
+      "perfuracao": [],
+      "numero-atual": [],
+      "polegar-direito": [],
+      "formato-via": [],
+      "formato-data": [""],
+      "inicio-emissao": [],
+      "chancela": [],
+      "nomenclatura": [],
+      "diretores": [],
+      "observacoes": []
+    },
+    "AP": {
+      "nome": "Amapá",
+      "geracao": "2° Geração",
+      "imagens": {
+        "img_1": "",
+        "img_2": ""
+      },
+      "formato-rg": [],
+      "formato-cpf": [],
+      "perfuracao": [],
+      "numero-atual": [],
+      "polegar-direito": [],
+      "formato-via": [],
+      "formato-data": [""],
+      "inicio-emissao": [],
+      "chancela": [],
+      "nomenclatura": [],
+      "diretores": [],
+      "observacoes": []
+    },
+    "AM": {
+      "nome": "Amazonas",
+      "geracao": "2° Geração",
+      "imagens": {
+        "img_1": "",
+        "img_2": ""
+      },
+      "formato-rg": [],
+      "formato-cpf": [],
+      "perfuracao": [],
+      "numero-atual": [],
+      "polegar-direito": [],
+      "formato-via": [],
+      "formato-data": [""],
+      "inicio-emissao": [],
+      "chancela": [],
+      "nomenclatura": [],
+      "diretores": [],
+      "observacoes": []
+    },
+    "BA": {
+      "nome": "Bahia",
+      "geracao": "2° Geração",
+      "imagens": {
+        "img_1": "",
+        "img_2": ""
+      },
+      "formato-rg": [],
+      "formato-cpf": [],
+      "perfuracao": [],
+      "numero-atual": [],
+      "polegar-direito": [],
+      "formato-via": [],
+      "formato-data": [""],
+      "inicio-emissao": [],
+      "chancela": [],
+      "nomenclatura": [],
+      "diretores": [],
+      "observacoes": []
+    },
+    "CE": {
+      "nome": "Ceará",
+      "geracao": "2° Geração",
+      "imagens": {
+        "img_1": "",
+        "img_2": ""
+      },
+      "formato-rg": [],
+      "formato-cpf": [],
+      "perfuracao": [],
+      "numero-atual": [],
+      "polegar-direito": [],
+      "formato-via": [],
+      "formato-data": [""],
+      "inicio-emissao": [],
+      "chancela": [],
+      "nomenclatura": [],
+      "diretores": [],
+      "observacoes": []
+    },
+    "DF": {
+      "nome": "Distrito Federal",
+      "geracao": "2° Geração",
+      "imagens": {
+        "img_1": "",
+        "img_2": ""
+      },
+      "formato-rg": [],
+      "formato-cpf": [],
+      "perfuracao": [],
+      "numero-atual": [],
+      "polegar-direito": [],
+      "formato-via": [],
+      "formato-data": [""],
+      "inicio-emissao": [],
+      "chancela": [],
+      "nomenclatura": [],
+      "diretores": [],
+      "observacoes": []
+    },
+    "ES": {
+      "nome": "Espirito Santo",
+      "geracao": "2° Geração",
+      "imagens": {
+        "img_1": "",
+        "img_2": ""
+      },
+      "formato-rg": [],
+      "formato-cpf": [],
+      "perfuracao": [],
+      "numero-atual": [],
+      "polegar-direito": [],
+      "formato-via": [],
+      "formato-data": [""],
+      "inicio-emissao": [],
+      "chancela": [],
+      "nomenclatura": [],
+      "diretores": [],
+      "observacoes": []
+    },
+    "GO": {
+      "nome": "Goiás",
+      "geracao": "2° Geração",
+      "imagens": {
+        "img_1": "",
+        "img_2": ""
+      },
+      "formato-rg": [],
+      "formato-cpf": [],
+      "perfuracao": [],
+      "numero-atual": [],
+      "polegar-direito": [],
+      "formato-via": [],
+      "formato-data": [""],
+      "inicio-emissao": [],
+      "chancela": [],
+      "nomenclatura": [],
+      "diretores": [],
+      "observacoes": []
+    },
+    "MA": {
+      "nome": "Maranhão",
+      "geracao": "2° Geração",
+      "imagens": {
+        "img_1": "",
+        "img_2": ""
+      },
+      "formato-rg": [],
+      "formato-cpf": [],
+      "perfuracao": [],
+      "numero-atual": [],
+      "polegar-direito": [],
+      "formato-via": [],
+      "formato-data": [""],
+      "inicio-emissao": [],
+      "chancela": [],
+      "nomenclatura": [],
+      "diretores": [],
+      "observacoes": []
+    },
+    "MT": {
+      "nome": "Mato Grosso",
+      "geracao": "2° Geração",
+      "imagens": {
+        "img_1": "",
+        "img_2": ""
+      },
+      "formato-rg": [],
+      "formato-cpf": [],
+      "perfuracao": [],
+      "numero-atual": [],
+      "polegar-direito": [],
+      "formato-via": [],
+      "formato-data": [""],
+      "inicio-emissao": [],
+      "chancela": [],
+      "nomenclatura": [],
+      "diretores": [],
+      "observacoes": []
+    },
+    "MS": {
+      "nome": "Mato Grosso do Sul",
+      "geracao": "2° Geração",
+      "imagens": {
+        "img_1": "",
+        "img_2": ""
+      },
+      "formato-rg": [],
+      "formato-cpf": [],
+      "perfuracao": [],
+      "numero-atual": [],
+      "polegar-direito": [],
+      "formato-via": [],
+      "formato-data": [""],
+      "inicio-emissao": [],
+      "chancela": [],
+      "nomenclatura": [],
+      "diretores": [],
+      "observacoes": []
+    },
+    "MG": {
+      "nome": "Minas Gerais",
+      "geracao": "2° Geração",
+      "imagens": {
+        "img_1": "",
+        "img_2": ""
+      },
+      "formato-rg": [],
+      "formato-cpf": [],
+      "perfuracao": [],
+      "numero-atual": [],
+      "polegar-direito": [],
+      "formato-via": [],
+      "formato-data": [""],
+      "inicio-emissao": [],
+      "chancela": [],
+      "nomenclatura": [],
+      "diretores": [],
+      "observacoes": []
+    },
+    "PA": {
+      "nome": "Pará",
+      "geracao": "2° Geração",
+      "imagens": {
+        "img_1": "",
+        "img_2": ""
+      },
+      "formato-rg": [],
+      "formato-cpf": [],
+      "perfuracao": [],
+      "numero-atual": [],
+      "polegar-direito": [],
+      "formato-via": [],
+      "formato-data": [""],
+      "inicio-emissao": [],
+      "chancela": [],
+      "nomenclatura": [],
+      "diretores": [],
+      "observacoes": []
+    },
+    "PB": {
+      "nome": "Paraíba",
+      "geracao": "2° Geração",
+      "imagens": {
+        "img_1": "",
+        "img_2": ""
+      },
+      "formato-rg": [],
+      "formato-cpf": [],
+      "perfuracao": [],
+      "numero-atual": [],
+      "polegar-direito": [],
+      "formato-via": [],
+      "formato-data": [""],
+      "inicio-emissao": [],
+      "chancela": [],
+      "nomenclatura": [],
+      "diretores": [],
+      "observacoes": []
+    },
+    "PR": {
+      "nome": "Paraná",
+      "geracao": "2° Geração",
+      "imagens": {
+        "img_1": "",
+        "img_2": ""
+      },
+      "formato-rg": [],
+      "formato-cpf": [],
+      "perfuracao": [],
+      "numero-atual": [],
+      "polegar-direito": [],
+      "formato-via": [],
+      "formato-data": [""],
+      "inicio-emissao": [],
+      "chancela": [],
+      "nomenclatura": [],
+      "diretores": [],
+      "observacoes": []
+    },
+    "PE": {
+      "nome": "Pernambuco",
+      "geracao": "2° Geração",
+      "imagens": {
+        "img_1": "",
+        "img_2": ""
+      },
+      "formato-rg": [],
+      "formato-cpf": [],
+      "perfuracao": [],
+      "numero-atual": [],
+      "polegar-direito": [],
+      "formato-via": [],
+      "formato-data": [""],
+      "inicio-emissao": [],
+      "chancela": [],
+      "nomenclatura": [],
+      "diretores": [],
+      "observacoes": []
+    },
+    "PI": {
+      "nome": "Piauí",
+      "geracao": "2° Geração",
+      "imagens": {
+        "img_1": "",
+        "img_2": ""
+      },
+      "formato-rg": [],
+      "formato-cpf": [],
+      "perfuracao": [],
+      "numero-atual": [],
+      "polegar-direito": [],
+      "formato-via": [],
+      "formato-data": [""],
+      "inicio-emissao": [],
+      "chancela": [],
+      "nomenclatura": [],
+      "diretores": [],
+      "observacoes": []
+    },
+    "RJ": {
+      "nome": "Rio de Janeiro",
+      "geracao": "2° Geração",
+      "imagens": {
+        "img_1": "",
+        "img_2": ""
+      },
+      "formato-rg": [],
+      "formato-cpf": [],
+      "perfuracao": [],
+      "numero-atual": [],
+      "polegar-direito": ["POLEGAR DIREITO"],
+      "formato-via": [],
+      "formato-data": [""],
+      "inicio-emissao": [],
+      "chancela": [],
+      "nomenclatura": [],
+      "diretores": [],
+      "observacoes": []
+    },
+    "RN": {
+      "nome": "Rio Grande do Norte",
+      "geracao": "2° Geração",
+      "imagens": {
+        "img_1": "",
+        "img_2": ""
+      },
+      "formato-rg": [],
+      "formato-cpf": [],
+      "perfuracao": [],
+      "numero-atual": [],
+      "polegar-direito": [],
+      "formato-via": [],
+      "formato-data": [""],
+      "inicio-emissao": [],
+      "chancela": [],
+      "nomenclatura": [],
+      "diretores": [],
+      "observacoes": []
+    },
+    "RS": {
+      "nome": "Rio Grande do Sul",
+      "geracao": "2° Geração",
+      "imagens": {
+        "img_1": "",
+        "img_2": ""
+      },
+      "formato-rg": [],
+      "formato-cpf": [],
+      "perfuracao": [],
+      "numero-atual": [],
+      "polegar-direito": [],
+      "formato-via": [],
+      "formato-data": [""],
+      "inicio-emissao": [],
+      "chancela": [],
+      "nomenclatura": [],
+      "diretores": [],
+      "observacoes": []
+    },
+    "RO": {
+      "nome": "Rondônia",
+      "geracao": "2° Geração",
+      "imagens": {
+        "img_1": "",
+        "img_2": ""
+      },
+      "formato-rg": [],
+      "formato-cpf": [],
+      "perfuracao": [],
+      "numero-atual": [],
+      "polegar-direito": [],
+      "formato-via": [],
+      "formato-data": [""],
+      "inicio-emissao": [],
+      "chancela": [],
+      "nomenclatura": [],
+      "diretores": [],
+      "observacoes": []
+    },
+    "RR": {
+      "nome": "Roraima",
+      "geracao": "2° Geração",
+      "imagens": {
+        "img_1": "",
+        "img_2": ""
+      },
+      "formato-rg": [],
+      "formato-cpf": [],
+      "perfuracao": [],
+      "numero-atual": [],
+      "polegar-direito": [],
+      "formato-via": [],
+      "formato-data": [""],
+      "inicio-emissao": [],
+      "chancela": [],
+      "nomenclatura": [],
+      "diretores": [],
+      "observacoes": []
+    },
+    "SC": {
+      "nome": "Santa Catarina",
+      "geracao": "2° Geração",
+      "imagens": {
+        "img_1": "",
+        "img_2": ""
+      },
+      "formato-rg": [],
+      "formato-cpf": [],
+      "perfuracao": [],
+      "numero-atual": [],
+      "polegar-direito": [],
+      "formato-via": [],
+      "formato-data": [""],
+      "inicio-emissao": [],
+      "chancela": [],
+      "nomenclatura": [],
+      "diretores": [],
+      "observacoes": []
+    },
+    "SP": {
+      "nome": "São Paulo",
+      "geracao": "2° Geração",
+      "imagens": {
+        "img_1": "",
+        "img_2": ""
+      },
+      "formato-rg": [
+        "##.###.###-# - <span style=\"font-size:14px;\">(Digito 0 a 9 ou X)</span> <br>"
+      ],
+      "formato-cpf": ["#########/##"],
+      "perfuracao": [
+        "SSP <span style=\"font-size:14px;\">(documentos antigos)</span><br>",
+        "IIRGD<br>"
+      ],
+      "numero-atual": ["40000000"],
+      "polegar-direito": ["Polegar Direito"],
+      "formato-via": ["1 via"],
+      "formato-data": [
+        "##/aaa/## <span style=\"font-size:14px;\">(Até Fev de 2014)</span><br>",
+        "##/##/#### <span style=\"font-size:14px;\">(A partir Fev de 2014)</span><br> "
+      ],
+      "inicio-emissao": ["1983"],
+      "chancela": ["Nome e função na mesma cor"],
+      "nomenclatura": ["Secretaria de Segurança Pública (SSP/SP)"],
+      "diretores": [
+        "<div class = \"diretor\">GUILHERME MURARO DERRITE <br> <span class=\"diretores-linha\">01/01/2023 - Atual</span></div>",
+        "<div class = \"diretor\">Gen. JOÃO CAMILO PIRES DE CAMPOS <br> <span class=\"diretores-linha\">01/01/2019 até 31/12/2022</span></div>",
+        "<div class = \"diretor\">Dr. MÁGINO ALVES BARBOSA FILHO <br> <span class=\"diretores-linha\">13/05/2016 até 31/12/2018</span></div>",
+        "<div class = \"diretor\">Dr. ALEXANDRE DE MORAES <br> <span class=\"diretores-linha\">01/01/2015 a 12/05/2016</span></div>",
+        "<div class = \"diretor\">Dr. FERNANDO GRELLA VIEIRA <br> <span class=\"diretores-linha\">22/11/2012 a 31/12/2014</span></div>",
+        "<div class = \"diretor\">Dr. ANTÔNIO FERREIRA PINTO <br> <span class=\"diretores-linha\">19/03/2009 a 21/11/2012</span></div>",
+        "<div class = \"diretor\">Dr. RONALDO AUGUSTO BRETAS MARZAGÃO <br> <span class=\"diretores-linha\">01/01/2007 a 18/03/2009</span></div>",
+        "<div class = \"diretor\">Dr. SAULO DE CASTRO ABREU FILHO <br> <span class=\"diretores-linha\">22/01/2002 a 31/12/2006</span></div>",
+        "<div class = \"diretor\">Dr. MARCO VINICIO PETRELLUZZI <br> <span class=\"diretores-linha\">04/02/1999 a 21/01/2002</span></div>",
+        "<div class = \"diretor\">Dr. JOSÉ AFONSO DA SILVA <br> <span class=\"diretores-linha\">01/01/1995 a 03/02/1999</span></div>",
+        "<div class = \"diretor\">Dr. ANTONIO DE SOUZA CORREA MEYER <br> <span class=\"diretores-linha\">09/09/1994 a 01/01/1995</span></div>",
+        "<div class = \"diretor\">Dr. ODYR JOSÉ PINTO PORTO <br> <span class=\"diretores-linha\">01/01/1994 a 09/09/1994</span></div>",
+        "<div class = \"diretor\">Dr. MICHEL MIGUEL ELIAS TEMER LULIA <br> <span class=\"diretores-linha\">05/01/1993 a 27/11/1993</span></div>",
+        "<div class = \"diretor\">Dr. PAULO DE TARSO MENDONÇA <br> <span class=\"diretores-linha\">31/12/1992 a 05/01/1993</span></div>",
+        "<div class = \"diretor\">Dr. MICHEL MIGUEL ELIAS TEMER LULIA <br> <span class=\"diretores-linha\">08/10/1992 a 31/12/1992</span></div>",
+        "<div class = \"diretor\">Dr. PEDRO FRANCO DE CAMPOS <br> <span class=\"diretores-linha\">16/03/1991 a 08/10/1992</span></div>",
+        "<div class = \"diretor\">Dr. ANTONIO CLAUDIO MARIZ DE OLIVEIRA <br> <span class=\"diretores-linha\">22/03/1990 a 16/03/1991</span></div>",
+        "<div class = \"diretor\">Dr. LUIZ ANTONIO FLEURY FILHO <br> <span class=\"diretores-linha\">16/03/1987 a 22/03/1990</span></div>",
+        "<div class = \"diretor\">Dr. EDUARDO AUGUSTO MUYLAERT ANTUNES <br> <span class=\"diretores-linha\">14/02/1986 a 16/03/1987</span></div>",
+        "<div class = \"diretor\">Dr. MICHEL MIGUEL ELIAS TEMER LULIA <br> <span class=\"diretores-linha\">31/01/1984 a 14/02/1986</span></div>",
+        "<div class = \"diretor\">Dr. MIGUEL REALE JUNIOR <br> <span class=\"diretores-linha\">10/09/1983 a 31/01/1984</span></div>",
+        "<div class = \"diretor\">Des. MANOEL PEDRO PIMENTEL <br> <span class=\"diretores-linha\">15/03/1983 a 10/09/1983</span></div>",
+        "<div class = \"diretor\">Des. OCTAVIO GONZAGA JUNIOR <br> <span class=\"diretores-linha\">16/03/1979 a 15/03/1983</span></div>",
+        "<div class = \"diretor\">OCTAVIO GONZAGA JUNIOR <br> <span class=\"diretores-linha\">16/03/1979 a 15/03/1983</span></div>"
+      ],
+      "observacoes": [
+        "<div class=\"diretor\"> ▶ Doc Origem segue padrão 4|4|6.</div>",
+        "<div class=\"diretor\"> ▶ RG emitido até 2014 com número na cor preta deverá ter a vogal (E) alinhado com o segundo caractere do campo naturalidade.</div>",
+        "<div class=\"diretor\"> ▶ A partir de Fevereiro de 2014 a numeração passa a ser vermelha sem a vogal (E).</div>",
+        "<div class=\"diretor\"> ▶ Também a partir de 2014 a letra \"A\" passa a ter falha técnica.</div>"
+      ]
+    },
+    "SE": {
+      "nome": "Sergipe",
+      "geracao": "2° Geração",
+      "imagens": {
+        "img_1": "",
+        "img_2": ""
+      },
+      "formato-rg": [],
+      "formato-cpf": [],
+      "perfuracao": [],
+      "numero-atual": [],
+      "polegar-direito": ["POLEGAR DIREITO"],
+      "formato-via": [],
+      "formato-data": [""],
+      "inicio-emissao": [],
+      "chancela": [],
+      "nomenclatura": [],
+      "diretores": [],
+      "observacoes": []
+    },
+    "TO": {
+      "nome": "Tocantins",
+      "geracao": "2° Geração",
+      "imagens": {
+        "img_1": "",
+        "img_2": ""
+      },
+      "formato-rg": [],
+      "formato-cpf": [],
+      "perfuracao": [],
+      "numero-atual": [],
+      "polegar-direito": [],
+      "formato-via": [],
+      "formato-data": [""],
+      "inicio-emissao": [],
+      "chancela": [],
+      "nomenclatura": [],
+      "diretores": [],
+      "observacoes": []
+    }
+  },
+  "3": {
+    "AC": {
+      "nome": "Acre",
+      "geracao": "3° Geração",
+      "imagens": {
+        "img_1": "",
+        "img_2": ""
+      },
+      "formato-rg": [],
+      "formato-cpf": [],
+      "perfuracao": [],
+      "numero-atual": [],
+      "polegar-direito": [],
+      "formato-via": [],
+      "formato-data": [""],
+      "inicio-emissao": [],
+      "chancela": [],
+      "nomenclatura": [],
+      "diretores": [],
+      "observacoes": []
+    },
+    "AL": {
+      "nome": "Alagoas",
+      "geracao": "3° Geração",
+      "imagens": {
+        "img_1": "",
+        "img_2": ""
+      },
+      "formato-rg": [],
+      "formato-cpf": [],
+      "perfuracao": [],
+      "numero-atual": [],
+      "polegar-direito": [],
+      "formato-via": [],
+      "formato-data": [""],
+      "inicio-emissao": [],
+      "chancela": [],
+      "nomenclatura": [],
+      "diretores": [],
+      "observacoes": []
+    },
+    "AP": {
+      "nome": "Amapá",
+      "geracao": "3° Geração",
+      "imagens": {
+        "img_1": "",
+        "img_2": ""
+      },
+      "formato-rg": [],
+      "formato-cpf": [],
+      "perfuracao": [],
+      "numero-atual": [],
+      "polegar-direito": [],
+      "formato-via": [],
+      "formato-data": [""],
+      "inicio-emissao": [],
+      "chancela": [],
+      "nomenclatura": [],
+      "diretores": [],
+      "observacoes": []
+    },
+    "AM": {
+      "nome": "Amazonas",
+      "geracao": "3° Geração",
+      "imagens": {
+        "img_1": "",
+        "img_2": ""
+      },
+      "formato-rg": [],
+      "formato-cpf": [],
+      "perfuracao": [],
+      "numero-atual": [],
+      "polegar-direito": [],
+      "formato-via": [],
+      "formato-data": [""],
+      "inicio-emissao": [],
+      "chancela": [],
+      "nomenclatura": [],
+      "diretores": [],
+      "observacoes": []
+    },
+    "BA": {
+      "nome": "Bahia",
+      "geracao": "3° Geração",
+      "imagens": {
+        "img_1": "",
+        "img_2": ""
+      },
+      "formato-rg": [],
+      "formato-cpf": [],
+      "perfuracao": [],
+      "numero-atual": [],
+      "polegar-direito": [],
+      "formato-via": [],
+      "formato-data": [""],
+      "inicio-emissao": [],
+      "chancela": [],
+      "nomenclatura": [],
+      "diretores": [],
+      "observacoes": []
+    },
+    "CE": {
+      "nome": "Ceará",
+      "geracao": "3° Geração",
+      "imagens": {
+        "img_1": "",
+        "img_2": ""
+      },
+      "formato-rg": [],
+      "formato-cpf": [],
+      "perfuracao": [],
+      "numero-atual": [],
+      "polegar-direito": [],
+      "formato-via": [],
+      "formato-data": [""],
+      "inicio-emissao": [],
+      "chancela": [],
+      "nomenclatura": [],
+      "diretores": [],
+      "observacoes": []
+    },
+    "DF": {
+      "nome": "Distrito Federal",
+      "geracao": "3° Geração",
+      "imagens": {
+        "img_1": "",
+        "img_2": ""
+      },
+      "formato-rg": [],
+      "formato-cpf": [],
+      "perfuracao": [],
+      "numero-atual": [],
+      "polegar-direito": [],
+      "formato-via": [],
+      "formato-data": [""],
+      "inicio-emissao": [],
+      "chancela": [],
+      "nomenclatura": [],
+      "diretores": [],
+      "observacoes": []
+    },
+    "ES": {
+      "nome": "Espirito Santo",
+      "geracao": "3° Geração",
+      "imagens": {
+        "img_1": "",
+        "img_2": ""
+      },
+      "formato-rg": [],
+      "formato-cpf": [],
+      "perfuracao": [],
+      "numero-atual": [],
+      "polegar-direito": [],
+      "formato-via": [],
+      "formato-data": [""],
+      "inicio-emissao": [],
+      "chancela": [],
+      "nomenclatura": [],
+      "diretores": [],
+      "observacoes": []
+    },
+    "GO": {
+      "nome": "Goiás",
+      "geracao": "3° Geração",
+      "imagens": {
+        "img_1": "",
+        "img_2": ""
+      },
+      "formato-rg": [],
+      "formato-cpf": [],
+      "perfuracao": [],
+      "numero-atual": [],
+      "polegar-direito": [],
+      "formato-via": [],
+      "formato-data": [""],
+      "inicio-emissao": [],
+      "chancela": [],
+      "nomenclatura": [],
+      "diretores": [],
+      "observacoes": []
+    },
+    "MA": {
+      "nome": "Maranhão",
+      "geracao": "3° Geração",
+      "imagens": {
+        "img_1": "",
+        "img_2": ""
+      },
+      "formato-rg": [],
+      "formato-cpf": [],
+      "perfuracao": [],
+      "numero-atual": [],
+      "polegar-direito": [],
+      "formato-via": [],
+      "formato-data": [""],
+      "inicio-emissao": [],
+      "chancela": [],
+      "nomenclatura": [],
+      "diretores": [],
+      "observacoes": []
+    },
+    "MT": {
+      "nome": "Mato Grosso",
+      "geracao": "3° Geração",
+      "imagens": {
+        "img_1": "",
+        "img_2": ""
+      },
+      "formato-rg": [],
+      "formato-cpf": [],
+      "perfuracao": [],
+      "numero-atual": [],
+      "polegar-direito": [],
+      "formato-via": [],
+      "formato-data": [""],
+      "inicio-emissao": [],
+      "chancela": [],
+      "nomenclatura": [],
+      "diretores": [],
+      "observacoes": []
+    },
+    "MS": {
+      "nome": "Mato Grosso do Sul",
+      "geracao": "3° Geração",
+      "imagens": {
+        "img_1": "",
+        "img_2": ""
+      },
+      "formato-rg": [],
+      "formato-cpf": [],
+      "perfuracao": [],
+      "numero-atual": [],
+      "polegar-direito": [],
+      "formato-via": [],
+      "formato-data": [""],
+      "inicio-emissao": [],
+      "chancela": [],
+      "nomenclatura": [],
+      "diretores": [],
+      "observacoes": []
+    },
+    "MG": {
+      "nome": "Minas Gerais",
+      "geracao": "3° Geração",
+      "imagens": {
+        "img_1": "",
+        "img_2": ""
+      },
+      "formato-rg": [],
+      "formato-cpf": [],
+      "perfuracao": [],
+      "numero-atual": [],
+      "polegar-direito": [],
+      "formato-via": [],
+      "formato-data": [""],
+      "inicio-emissao": [],
+      "chancela": [],
+      "nomenclatura": [],
+      "diretores": [],
+      "observacoes": []
+    },
+    "PA": {
+      "nome": "Pará",
+      "geracao": "3° Geração",
+      "imagens": {
+        "img_1": "",
+        "img_2": ""
+      },
+      "formato-rg": [],
+      "formato-cpf": [],
+      "perfuracao": [],
+      "numero-atual": [],
+      "polegar-direito": [],
+      "formato-via": [],
+      "formato-data": [""],
+      "inicio-emissao": [],
+      "chancela": [],
+      "nomenclatura": [],
+      "diretores": [],
+      "observacoes": []
+    },
+    "PB": {
+      "nome": "Paraíba",
+      "geracao": "3° Geração",
+      "imagens": {
+        "img_1": "",
+        "img_2": ""
+      },
+      "formato-rg": [],
+      "formato-cpf": [],
+      "perfuracao": [],
+      "numero-atual": [],
+      "polegar-direito": [],
+      "formato-via": [],
+      "formato-data": [""],
+      "inicio-emissao": [],
+      "chancela": [],
+      "nomenclatura": [],
+      "diretores": [],
+      "observacoes": []
+    },
+    "PR": {
+      "nome": "Paraná",
+      "geracao": "3° Geração",
+      "imagens": {
+        "img_1": "",
+        "img_2": ""
+      },
+      "formato-rg": [],
+      "formato-cpf": [],
+      "perfuracao": [],
+      "numero-atual": [],
+      "polegar-direito": [],
+      "formato-via": [],
+      "formato-data": [""],
+      "inicio-emissao": [],
+      "chancela": [],
+      "nomenclatura": [],
+      "diretores": [],
+      "observacoes": []
+    },
+    "PE": {
+      "nome": "Pernambuco",
+      "geracao": "3° Geração",
+      "imagens": {
+        "img_1": "",
+        "img_2": ""
+      },
+      "formato-rg": [],
+      "formato-cpf": [],
+      "perfuracao": [],
+      "numero-atual": [],
+      "polegar-direito": [],
+      "formato-via": [],
+      "formato-data": [""],
+      "inicio-emissao": [],
+      "chancela": [],
+      "nomenclatura": [],
+      "diretores": [],
+      "observacoes": []
+    },
+    "PI": {
+      "nome": "Piauí",
+      "geracao": "3° Geração",
+      "imagens": {
+        "img_1": "",
+        "img_2": ""
+      },
+      "formato-rg": [],
+      "formato-cpf": [],
+      "perfuracao": [],
+      "numero-atual": [],
+      "polegar-direito": [],
+      "formato-via": [],
+      "formato-data": [""],
+      "inicio-emissao": [],
+      "chancela": [],
+      "nomenclatura": [],
+      "diretores": [],
+      "observacoes": []
+    },
+    "RJ": {
+      "nome": "Rio de Janeiro",
+      "geracao": "3° Geração",
+      "imagens": {
+        "img_1": "",
+        "img_2": ""
+      },
+      "formato-rg": [],
+      "formato-cpf": [],
+      "perfuracao": [],
+      "numero-atual": [],
+      "polegar-direito": [],
+      "formato-via": [],
+      "formato-data": [""],
+      "inicio-emissao": [],
+      "chancela": [],
+      "nomenclatura": [],
+      "diretores": [],
+      "observacoes": []
+    },
+    "RN": {
+      "nome": "Rio Grande do Norte",
+      "geracao": "3° Geração",
+      "imagens": {
+        "img_1": "",
+        "img_2": ""
+      },
+      "formato-rg": [],
+      "formato-cpf": [],
+      "perfuracao": [],
+      "numero-atual": [],
+      "polegar-direito": [],
+      "formato-via": [],
+      "formato-data": [""],
+      "inicio-emissao": [],
+      "chancela": [],
+      "nomenclatura": [],
+      "diretores": [],
+      "observacoes": []
+    },
+    "RS": {
+      "nome": "Rio Grande do Sul",
+      "geracao": "3° Geração",
+      "imagens": {
+        "img_1": "",
+        "img_2": ""
+      },
+      "formato-rg": [],
+      "formato-cpf": [],
+      "perfuracao": [],
+      "numero-atual": [],
+      "polegar-direito": [],
+      "formato-via": [],
+      "formato-data": [""],
+      "inicio-emissao": [],
+      "chancela": [],
+      "nomenclatura": [],
+      "diretores": [],
+      "observacoes": []
+    },
+    "RO": {
+      "nome": "Rondônia",
+      "geracao": "3° Geração",
+      "imagens": {
+        "img_1": "",
+        "img_2": ""
+      },
+      "formato-rg": [],
+      "formato-cpf": [],
+      "perfuracao": [],
+      "numero-atual": [],
+      "polegar-direito": [],
+      "formato-via": [],
+      "formato-data": [""],
+      "inicio-emissao": [],
+      "chancela": [],
+      "nomenclatura": [],
+      "diretores": [],
+      "observacoes": []
+    },
+    "RR": {
+      "nome": "Roraima",
+      "geracao": "3° Geração",
+      "imagens": {
+        "img_1": "",
+        "img_2": ""
+      },
+      "formato-rg": [],
+      "formato-cpf": [],
+      "perfuracao": [],
+      "numero-atual": [],
+      "polegar-direito": [],
+      "formato-via": [],
+      "formato-data": [""],
+      "inicio-emissao": [],
+      "chancela": [],
+      "nomenclatura": [],
+      "diretores": [],
+      "observacoes": []
+    },
+    "SC": {
+      "nome": "Santa Catarina",
+      "geracao": "3° Geração",
+      "imagens": {
+        "img_1": "",
+        "img_2": ""
+      },
+      "formato-rg": [],
+      "formato-cpf": [],
+      "perfuracao": [],
+      "numero-atual": [],
+      "polegar-direito": [],
+      "formato-via": [],
+      "formato-data": [""],
+      "inicio-emissao": [],
+      "chancela": [],
+      "nomenclatura": [],
+      "diretores": [],
+      "observacoes": []
+    },
+    "SP": {
+      "nome": "São Paulo",
+      "geracao": "3° Geração",
+      "imagens": {
+        "img_1": "",
+        "img_2": "",
+        "img_3": ""
+      },
+      "formato-rg": [],
+      "formato-cpf": [],
+      "perfuracao": [],
+      "numero-atual": [],
+      "polegar-direito": [],
+      "formato-via": [],
+      "formato-data": [""],
+      "inicio-emissao": [],
+      "chancela": [],
+      "nomenclatura": [],
+      "diretores": [],
+      "observacoes": []
+    },
+    "SE": {
+      "nome": "Sergipe",
+      "geracao": "3° Geração",
+      "imagens": {
+        "img_1": "",
+        "img_2": ""
+      },
+      "formato-rg": [],
+      "formato-cpf": [],
+      "perfuracao": [],
+      "numero-atual": [],
+      "polegar-direito": [],
+      "formato-via": [],
+      "formato-data": [""],
+      "inicio-emissao": [],
+      "chancela": [],
+      "nomenclatura": [],
+      "diretores": [],
+      "observacoes": []
+    },
+    "TO": {
+      "nome": "Tocantins",
+      "geracao": "3° Geração",
+      "imagens": {
+        "img_1": "",
+        "img_2": ""
+      },
+      "formato-rg": [],
+      "formato-cpf": [],
+      "perfuracao": [],
+      "numero-atual": [],
+      "polegar-direito": [],
+      "formato-via": [],
+      "formato-data": [""],
+      "inicio-emissao": [],
+      "chancela": [],
+      "nomenclatura": [],
+      "diretores": [],
+      "observacoes": []
+    }
+  },
+  "4": {
+    "AC": {
+      "nome": "Acre",
+      "geracao": "4° Geração (CIN)",
+      "imagens": {
+        "img_1": "",
+        "img_2": ""
+      },
+      "formato-rg": [],
+      "formato-cpf": [],
+      "perfuracao": [],
+      "numero-atual": [],
+      "polegar-direito": [],
+      "formato-via": [],
+      "formato-data": [""],
+      "inicio-emissao": [],
+      "chancela": [],
+      "nomenclatura": [],
+      "diretores": [],
+      "observacoes": []
+    },
+    "AL": {
+      "nome": "Alagoas",
+      "geracao": "4° Geração (CIN)",
+      "imagens": {
+        "img_1": "",
+        "img_2": ""
+      },
+      "formato-rg": [],
+      "formato-cpf": [],
+      "perfuracao": [],
+      "numero-atual": [],
+      "polegar-direito": [],
+      "formato-via": [],
+      "formato-data": [""],
+      "inicio-emissao": [],
+      "chancela": [],
+      "nomenclatura": [],
+      "diretores": [],
+      "observacoes": []
+    },
+    "AP": {
+      "nome": "Amapá",
+      "geracao": "4° Geração (CIN)",
+      "imagens": {
+        "img_1": "",
+        "img_2": ""
+      },
+      "formato-rg": [],
+      "formato-cpf": [],
+      "perfuracao": [],
+      "numero-atual": [],
+      "polegar-direito": [],
+      "formato-via": [],
+      "formato-data": [""],
+      "inicio-emissao": [],
+      "chancela": [],
+      "nomenclatura": [],
+      "diretores": [],
+      "observacoes": []
+    },
+    "AM": {
+      "nome": "Amazonas",
+      "geracao": "4° Geração (CIN)",
+      "imagens": {
+        "img_1": "",
+        "img_2": ""
+      },
+      "formato-rg": [],
+      "formato-cpf": [],
+      "perfuracao": [],
+      "numero-atual": [],
+      "polegar-direito": [],
+      "formato-via": [],
+      "formato-data": [""],
+      "inicio-emissao": [],
+      "chancela": [],
+      "nomenclatura": [],
+      "diretores": [],
+      "observacoes": []
+    },
+    "BA": {
+      "nome": "Bahia",
+      "geracao": "4° Geração (CIN)",
+      "imagens": {
+        "img_1": "",
+        "img_2": ""
+      },
+      "formato-rg": [],
+      "formato-cpf": [],
+      "perfuracao": [],
+      "numero-atual": [],
+      "polegar-direito": [],
+      "formato-via": [],
+      "formato-data": [""],
+      "inicio-emissao": [],
+      "chancela": [],
+      "nomenclatura": [],
+      "diretores": [],
+      "observacoes": []
+    },
+    "CE": {
+      "nome": "Ceará",
+      "geracao": "4° Geração (CIN)",
+      "imagens": {
+        "img_1": "",
+        "img_2": ""
+      },
+      "formato-rg": [],
+      "formato-cpf": [],
+      "perfuracao": [],
+      "numero-atual": [],
+      "polegar-direito": [],
+      "formato-via": [],
+      "formato-data": [""],
+      "inicio-emissao": [],
+      "chancela": [],
+      "nomenclatura": [],
+      "diretores": [],
+      "observacoes": []
+    },
+    "DF": {
+      "nome": "Distrito Federal",
+      "geracao": "4° Geração (CIN)",
+      "imagens": {
+        "img_1": "",
+        "img_2": ""
+      },
+      "formato-rg": [],
+      "formato-cpf": [],
+      "perfuracao": [],
+      "numero-atual": [],
+      "polegar-direito": [],
+      "formato-via": [],
+      "formato-data": [""],
+      "inicio-emissao": [],
+      "chancela": [],
+      "nomenclatura": [],
+      "diretores": [],
+      "observacoes": []
+    },
+    "ES": {
+      "nome": "Espirito Santo",
+      "geracao": "4° Geração (CIN)",
+      "imagens": {
+        "img_1": "",
+        "img_2": ""
+      },
+      "formato-rg": [],
+      "formato-cpf": [],
+      "perfuracao": [],
+      "numero-atual": [],
+      "polegar-direito": [],
+      "formato-via": [],
+      "formato-data": [""],
+      "inicio-emissao": [],
+      "chancela": [],
+      "nomenclatura": [],
+      "diretores": [],
+      "observacoes": []
+    },
+    "GO": {
+      "nome": "Goiás",
+      "geracao": "4° Geração (CIN)",
+      "imagens": {
+        "img_1": "",
+        "img_2": ""
+      },
+      "formato-rg": [],
+      "formato-cpf": [],
+      "perfuracao": [],
+      "numero-atual": [],
+      "polegar-direito": [],
+      "formato-via": [],
+      "formato-data": [""],
+      "inicio-emissao": [],
+      "chancela": [],
+      "nomenclatura": [],
+      "diretores": [],
+      "observacoes": []
+    },
+    "MA": {
+      "nome": "Maranhão",
+      "geracao": "4° Geração (CIN)",
+      "imagens": {
+        "img_1": "",
+        "img_2": ""
+      },
+      "formato-rg": [],
+      "formato-cpf": [],
+      "perfuracao": [],
+      "numero-atual": [],
+      "polegar-direito": [],
+      "formato-via": [],
+      "formato-data": [""],
+      "inicio-emissao": [],
+      "chancela": [],
+      "nomenclatura": [],
+      "diretores": [],
+      "observacoes": []
+    },
+    "MT": {
+      "nome": "Mato Grosso",
+      "geracao": "4° Geração (CIN)",
+      "imagens": {
+        "img_1": "",
+        "img_2": ""
+      },
+      "formato-rg": [],
+      "formato-cpf": [],
+      "perfuracao": [],
+      "numero-atual": [],
+      "polegar-direito": [],
+      "formato-via": [],
+      "formato-data": [""],
+      "inicio-emissao": [],
+      "chancela": [],
+      "nomenclatura": [],
+      "diretores": [],
+      "observacoes": []
+    },
+    "MS": {
+      "nome": "Mato Grosso do Sul",
+      "geracao": "4° Geração (CIN)",
+      "imagens": {
+        "img_1": "",
+        "img_2": ""
+      },
+      "formato-rg": [],
+      "formato-cpf": [],
+      "perfuracao": [],
+      "numero-atual": [],
+      "polegar-direito": [],
+      "formato-via": [],
+      "formato-data": [""],
+      "inicio-emissao": [],
+      "chancela": [],
+      "nomenclatura": [],
+      "diretores": [],
+      "observacoes": []
+    },
+    "MG": {
+      "nome": "Minas Gerais",
+      "geracao": "4° Geração (CIN)",
+      "imagens": {
+        "img_1": "",
+        "img_2": ""
+      },
+      "formato-rg": [],
+      "formato-cpf": [],
+      "perfuracao": [],
+      "numero-atual": [],
+      "polegar-direito": [],
+      "formato-via": [],
+      "formato-data": [""],
+      "inicio-emissao": [],
+      "chancela": [],
+      "nomenclatura": [],
+      "diretores": [],
+      "observacoes": []
+    },
+    "PA": {
+      "nome": "Pará",
+      "geracao": "4° Geração (CIN)",
+      "imagens": {
+        "img_1": "",
+        "img_2": ""
+      },
+      "formato-rg": [],
+      "formato-cpf": [],
+      "perfuracao": [],
+      "numero-atual": [],
+      "polegar-direito": [],
+      "formato-via": [],
+      "formato-data": [""],
+      "inicio-emissao": [],
+      "chancela": [],
+      "nomenclatura": [],
+      "diretores": [],
+      "observacoes": []
+    },
+    "PB": {
+      "nome": "Paraíba",
+      "geracao": "4° Geração (CIN)",
+      "imagens": {
+        "img_1": "",
+        "img_2": ""
+      },
+      "formato-rg": [],
+      "formato-cpf": [],
+      "perfuracao": [],
+      "numero-atual": [],
+      "polegar-direito": [],
+      "formato-via": [],
+      "formato-data": [""],
+      "inicio-emissao": [],
+      "chancela": [],
+      "nomenclatura": [],
+      "diretores": [],
+      "observacoes": []
+    },
+    "PR": {
+      "nome": "Paraná",
+      "geracao": "4° Geração (CIN)",
+      "imagens": {
+        "img_1": "",
+        "img_2": ""
+      },
+      "formato-rg": [],
+      "formato-cpf": [],
+      "perfuracao": [],
+      "numero-atual": [],
+      "polegar-direito": [],
+      "formato-via": [],
+      "formato-data": [""],
+      "inicio-emissao": [],
+      "chancela": [],
+      "nomenclatura": [],
+      "diretores": [],
+      "observacoes": []
+    },
+    "PE": {
+      "nome": "Pernambuco",
+      "geracao": "4° Geração (CIN)",
+      "imagens": {
+        "img_1": "",
+        "img_2": ""
+      },
+      "formato-rg": [],
+      "formato-cpf": [],
+      "perfuracao": [],
+      "numero-atual": [],
+      "polegar-direito": [],
+      "formato-via": [],
+      "formato-data": [""],
+      "inicio-emissao": [],
+      "chancela": [],
+      "nomenclatura": [],
+      "diretores": [],
+      "observacoes": []
+    },
+    "PI": {
+      "nome": "Piauí",
+      "geracao": "4° Geração (CIN)",
+      "imagens": {
+        "img_1": "",
+        "img_2": ""
+      },
+      "formato-rg": [],
+      "formato-cpf": [],
+      "perfuracao": [],
+      "numero-atual": [],
+      "polegar-direito": [],
+      "formato-via": [],
+      "formato-data": [""],
+      "inicio-emissao": [],
+      "chancela": [],
+      "nomenclatura": [],
+      "diretores": [],
+      "observacoes": []
+    },
+    "RJ": {
+      "nome": "Rio de Janeiro",
+      "geracao": "4° Geração (CIN)",
+      "imagens": {
+        "img_1": "",
+        "img_2": ""
+      },
+      "formato-rg": [],
+      "formato-cpf": [],
+      "perfuracao": [],
+      "numero-atual": [],
+      "polegar-direito": [],
+      "formato-via": [],
+      "formato-data": [""],
+      "inicio-emissao": [],
+      "chancela": [],
+      "nomenclatura": [],
+      "diretores": [],
+      "observacoes": []
+    },
+    "RN": {
+      "nome": "Rio Grande do Norte",
+      "geracao": "4° Geração (CIN)",
+      "imagens": {
+        "img_1": "",
+        "img_2": ""
+      },
+      "formato-rg": [],
+      "formato-cpf": [],
+      "perfuracao": [],
+      "numero-atual": [],
+      "polegar-direito": [],
+      "formato-via": [],
+      "formato-data": [""],
+      "inicio-emissao": [],
+      "chancela": [],
+      "nomenclatura": [],
+      "diretores": [],
+      "observacoes": []
+    },
+    "RS": {
+      "nome": "Rio Grande do Sul",
+      "geracao": "4° Geração (CIN)",
+      "imagens": {
+        "img_1": "",
+        "img_2": ""
+      },
+      "formato-rg": [],
+      "formato-cpf": [],
+      "perfuracao": [],
+      "numero-atual": [],
+      "polegar-direito": [],
+      "formato-via": [],
+      "formato-data": [""],
+      "inicio-emissao": [],
+      "chancela": [],
+      "nomenclatura": [],
+      "diretores": [],
+      "observacoes": []
+    },
+    "RO": {
+      "nome": "Rondônia",
+      "geracao": "4° Geração (CIN)",
+      "imagens": {
+        "img_1": "",
+        "img_2": ""
+      },
+      "formato-rg": [],
+      "formato-cpf": [],
+      "perfuracao": [],
+      "numero-atual": [],
+      "polegar-direito": [],
+      "formato-via": [],
+      "formato-data": [""],
+      "inicio-emissao": [],
+      "chancela": [],
+      "nomenclatura": [],
+      "diretores": [],
+      "observacoes": []
+    },
+    "RR": {
+      "nome": "Roraima",
+      "geracao": "4° Geração (CIN)",
+      "imagens": {
+        "img_1": "",
+        "img_2": ""
+      },
+      "formato-rg": [],
+      "formato-cpf": [],
+      "perfuracao": [],
+      "numero-atual": [],
+      "polegar-direito": [],
+      "formato-via": [],
+      "formato-data": [""],
+      "inicio-emissao": [],
+      "chancela": [],
+      "nomenclatura": [],
+      "diretores": [],
+      "observacoes": []
+    },
+    "SC": {
+      "nome": "Santa Catarina",
+      "geracao": "4° Geração (CIN)",
+      "imagens": {
+        "img_1": "",
+        "img_2": ""
+      },
+      "formato-rg": [],
+      "formato-cpf": [],
+      "perfuracao": [],
+      "numero-atual": [],
+      "polegar-direito": [],
+      "formato-via": [],
+      "formato-data": [""],
+      "inicio-emissao": [],
+      "chancela": [],
+      "nomenclatura": [],
+      "diretores": [],
+      "observacoes": []
+    },
+    "SP": {
+      "nome": "São Paulo",
+      "geracao": "4° Geração (CIN)",
+      "imagens": {
+        "img_1": "",
+        "img_2": ""
+      },
+      "formato-rg": [],
+      "formato-cpf": [],
+      "perfuracao": [],
+      "numero-atual": [],
+      "polegar-direito": [],
+      "formato-via": [],
+      "formato-data": [""],
+      "inicio-emissao": [],
+      "chancela": [],
+      "nomenclatura": [],
+      "diretores": [],
+      "observacoes": []
+    },
+    "SE": {
+      "nome": "Sergipe",
+      "geracao": "4° Geração (CIN)",
+      "imagens": {
+        "img_1": "",
+        "img_2": ""
+      },
+      "formato-rg": [],
+      "formato-cpf": [],
+      "perfuracao": [],
+      "numero-atual": [],
+      "polegar-direito": [],
+      "formato-via": [],
+      "formato-data": [""],
+      "inicio-emissao": [],
+      "chancela": [],
+      "nomenclatura": [],
+      "diretores": [],
+      "observacoes": []
+    },
+    "TO": {
+      "nome": "Tocantins",
+      "geracao": "4° Geração (CIN)",
+      "imagens": {
+        "img_1": "",
+        "img_2": ""
+      },
+      "formato-rg": [],
+      "formato-cpf": [],
+      "perfuracao": [],
+      "numero-atual": [],
+      "polegar-direito": [],
+      "formato-via": [],
+      "formato-data": [""],
+      "inicio-emissao": [],
+      "chancela": [],
+      "nomenclatura": [],
+      "diretores": [],
+      "observacoes": []
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "manifest_version": 3,
+  "name": "Documentoscopia",
+  "version": "1.0",
+  "description": "A extensão para Google Chrome dedicada à documentoscopia é projetada para auxiliar na análise e detecção de fraudes em documentos. Ela fornece acesso a informações especializadas e exemplos práticos, permitindo uma avaliação detalhada de características que podem indicar falsificação, adulteração ou inconsistências. Desenvolvida por Kaique de Almeida Muniz",
+  "permissions": ["sidePanel"],
+  "icons": {
+    "128": "./src/img/icon/icon.png"
+  },
+  "background": {
+    "service_worker": "./server.js"
+  },
+  "side_panel": {
+    "default_path": "index.html"
+  },
+  "action": {
+    "default_title": "Click to open panel"
+  }
+}

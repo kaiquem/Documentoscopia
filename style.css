@@ -1,0 +1,131 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+:root {
+  --titles-color: rgb(122, 122, 122);
+  --result-color: rgb(56, 56, 56);
+}
+
+body {
+  font-family: "Roboto" !important;
+  background-color: rgb(242, 245, 248);
+}
+
+main {
+  max-width: 500px;
+  min-width: 500px;
+  background-color: rgba(231, 237, 243, 0.452);
+  box-shadow: 1px 1px 6px rgb(102, 99, 99);
+}
+
+.titles-form {
+  font-size: 1.2rem !important;
+  font-weight: 500;
+  user-select: none;
+  color: var(--titles-color);
+}
+.titles-result {
+  font-size: 0.9rem !important;
+  font-weight: 400;
+  width: 246px;
+  line-height: 1.2rem;
+  user-select: none;
+  color: var(--titles-color);
+}
+.info-result {
+  font-weight: 500;
+  font-size: 1rem !important;
+  color: var(--result-color);
+}
+
+.result-block {
+  gap: 6px;
+}
+.diretor {
+  background-color: rgba(207, 207, 207, 0.185);
+  border: 0.5px solid rgba(153, 153, 153, 0.267);
+  margin-bottom: 6px;
+}
+.diretores-linha {
+  color: var(--titles-color);
+  font-size: 14px;
+  margin-bottom: 2px;
+}
+.title {
+  background-color: #1c76fc36;
+  font-weight: 500;
+  font-size: 1.6rem !important;
+  user-select: none;
+  color: var(--result-color);
+}
+
+#status {
+  color: var(--result-color);
+  font-weight: 500;
+  user-select: none;
+}
+.image {
+  min-height: 340px;
+  max-height: 340px;
+  min-width: 480px;
+  max-width: 480px;
+  box-shadow: 2px 2px 4px rgb(102, 99, 99);
+}
+
+.controls {
+  height: 20px;
+}
+#count {
+  align-self: flex-start;
+  height: 12;
+  font-weight: 500;
+  font-size: 12px;
+  color: rgba(78, 78, 78, 0.603);
+  user-select: none;
+}
+
+.button-control {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 28px;
+}
+
+.desativado,
+.desativado:focus,
+.desativado:hover,
+.desativado:active {
+  background-color: gray !important;
+  border: none !important;
+  color: rgb(201, 201, 201) !important;
+  cursor: default !important;
+}
+
+.modal {
+  position: fixed;
+  z-index: 1000;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.8);
+  display: none;
+  align-items: center;
+  justify-content: center;
+}
+
+.modal img {
+  max-width: 90%;
+  max-height: 90%;
+  border-radius: 5px;
+}
+
+.hide {
+  display: none;
+}
