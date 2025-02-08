@@ -21,6 +21,7 @@ document.addEventListener("DOMContentLoaded", async function () {
   botaoAnterior.classList.add("desativado");
   botaoProximo.classList.add("desativado");
 });
+
 //Caixas de Seleção
 tipoSelec.addEventListener("change", () => {
   tipo = tipoSelec.value;
@@ -70,8 +71,19 @@ imagem.addEventListener("click", () => {
 });
 
 modal.addEventListener("click", () => {
-  console.log("Modal fechado");
   modal.style.display = "none";
+});
+
+document.addEventListener("keydown", function (event) {
+  if (event.key === "ArrowLeft") {
+    botaoAnterior.click();
+    imagemExpandida.src = imagem.src;
+  } else if (event.key === "ArrowRight") {
+    botaoProximo.click();
+    imagemExpandida.src = imagem.src;
+  } else if (event.key === "Escape" && modal.style.display == "flex") {
+    modal.click();
+  }
 });
 
 function controladorImagem(dados) {
